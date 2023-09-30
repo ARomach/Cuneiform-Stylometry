@@ -1,6 +1,7 @@
 name: stylometry
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - altair=4.1.0=py_1
   - anyio=3.5.0=py38haa95532_0
