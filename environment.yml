@@ -1,7 +1,7 @@
 name: stylometry
 channels:
   - defaults
-  - conda-forge
+  # - conda-forge
 dependencies:
   - python=3.8
   - numpy
