@@ -2,7 +2,7 @@
 
 # Stylometric Analysis for Akkadian Cuneiform Texts
 
-This Jupyter notebook provides code to perform stylometric analysis on cuneiform texts. The code can be accessed and used without any installation through binder at the following link: <https://mybinder.org/v2/gh/ARomach/Cuneiform-Stylometry/HEAD>{:target="_blank"}.
+This Jupyter notebook provides code to perform stylometric analysis on cuneiform texts. The code can be accessed and used without any installation through binder at the following link: <https://mybinder.org/v2/gh/ARomach/Cuneiform-Stylometry/HEAD>.
 
 The code was designed specifically for Akkadian texts, however, it is likely to work well on all languages that used the cuneiform script, meaning all languages that have a transliteration system that follows the same principles. Additionally, texts written in other non-alphabetic writing systems for whose characters there are unicode representations could probably benefit from this code as well. The code is based on [*Introduction to stylometry with python* from the Programming Historian website](https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python).
 
